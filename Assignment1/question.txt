@@ -1,0 +1,7 @@
+get a dataset of house pricing, and build a regression model for predicting house prices
+
+CP Related:
+Latest Paper + Latest/Challenging Dataset
+Base Paper: In this paper, accuracy of this model is this much
+Audience: who will be the end users of the built model
+Outcome: Paper/Patient/Develop product
